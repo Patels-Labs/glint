@@ -95,3 +95,14 @@ Copyright (C) 2026 Heet Patel
 Glint is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 Glint is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](LICENSE) for more details.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Patels-Labs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-dark.png">
+      <img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-light.png" height="40">
+    </picture>
+  </a>
+</p>
