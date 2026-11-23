@@ -4,7 +4,7 @@
 
 <p align="center">Fast, local-only screenshots for macOS. Capture, annotate, pin, and share without an account or a cloud.</p>
 
-<p align="center"><a href="https://github.com/Patels-Labs"><img src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-mark.png" alt="" height="22" align="absmiddle"></a>&nbsp; A <a href="https://github.com/Patels-Labs"><b>Patel's Labs</b></a> project</p>
+<p align="center"><a href="https://github.com/Patels-Labs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-dark.png"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-on-light.png" height="40"></picture></a></p>
 
 Glint lives in your menu bar. Take a screenshot and it shows up as a small popup in the corner of your screen. Copy it, save it, drag it into another app, or open it in the editor to mark it up.
 
