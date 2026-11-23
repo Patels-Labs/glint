@@ -4,6 +4,8 @@
 
 <p align="center">Fast, local-only screenshots for macOS. Capture, annotate, pin, and share without an account or a cloud.</p>
 
+<p align="center"><a href="https://github.com/Patels-Labs"><img src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-mark.png" alt="" height="22" align="absmiddle"></a>&nbsp; A <a href="https://github.com/Patels-Labs"><b>Patel's Labs</b></a> project</p>
+
 Glint lives in your menu bar. Take a screenshot and it shows up as a small popup in the corner of your screen. Copy it, save it, drag it into another app, or open it in the editor to mark it up.
 
 ## Features
@@ -95,9 +97,3 @@ Copyright (C) 2026 Heet Patel
 Glint is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 Glint is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](LICENSE) for more details.
-
----
-
-<p align="center">
-  <a href="https://github.com/Patels-Labs"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-light.png#gh-light-mode-only" height="40"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-dark.png#gh-dark-mode-only" height="40"></a>
-</p>
